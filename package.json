@@ -1,15 +1,15 @@
 {
-  "name": "ushahidi-platform-pattern-library",
+  "name": "radardasaude-platform-pattern-library",
   "description": "Ushahidi Platform Pattern Library",
   "version": "3.12.2-2",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ushahidi/platform-pattern-library"
+    "url": "https://github.com/radar-da-saude/plataform-pattern-library"
   },
   "author": "Ushahidi",
   "license": "AGPL-3.0",
-  "homepage": "https://github.com/ushahidi/platform-pattern-library",
+  "homepage": "https://github.com/radar-da-saude/plataform-pattern-library",
   "scripts": {
     "prepublish": "gulp build",
     "jshint": "jshint ."
