@@ -1,7 +1,7 @@
 {
   "name": "radardasaude-platform-pattern-library",
   "description": "Ushahidi Platform Pattern Library",
-  "version": "3.12.2-2",
+  "version": "3.12.2-3",
   "main": "gulpfile.js",
   "repository": {
     "type": "git",
